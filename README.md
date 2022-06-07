@@ -7,6 +7,10 @@ Installation
 다음과 같이 설치 가능합니다.
 <pip install AI_project>
   
-Usage
--------------
-<print("AI를 같이 공부해요")  
+ 
+  Usage
+  -------------
+  <print("AI를 같이 공부해요")  
+
+    Image
+    -------------
