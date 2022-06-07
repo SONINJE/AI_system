@@ -21,4 +21,4 @@ pip install AI_project
    
  Reference
  -----------------
- [!DepEDU (http://www.deepedu.ai/storage/env/light_logo.png)](http://www.deepedu.ai/)
+ [DeepEDU](http://www.deepedu.ai/)
