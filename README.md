@@ -17,4 +17,5 @@ pip install AI_project
 
  Image
  -------------
- ![Alt text](
+   ![light_logo](https://user-images.githubusercontent.com/106592497/172307116-1af94c1d-c2ae-4b32-8998-dc15e213747c.png)
+
