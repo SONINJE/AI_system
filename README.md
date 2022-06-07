@@ -15,8 +15,8 @@ Installation
 
  Image
  -------------
- ![deepedu_logo](https://user-images.githubusercontent.com/106592497/172307116-1af94c1d-c2ae-4b32-8998-dc15e213747c.png)
  ![deepedu_logo](https://user-images.githubusercontent.com/103096786/164391312-cfbc8178-8152-4179-aa89-af9ae6adadf6.png)
+ 
  Reference
  -----------------
  [Deep:EDU 링크](http://www.deepedu.ai/)
