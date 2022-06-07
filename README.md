@@ -6,7 +6,7 @@ Installation
 -------------
 다음과 같이 설치 가능합니다.
 
-  pip install AI_project
+    pip install AI_project
 
  
   Usage
