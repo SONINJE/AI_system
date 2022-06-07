@@ -21,4 +21,4 @@ pip install AI_project
    
  Reference
  -----------------
- [DeepEDU](http://www.deepedu.ai/)
+ [Deep:EDU 링크](http://www.deepedu.ai/)
